@@ -127,7 +127,7 @@ https://wisdomplexus.com/blogs/industrial-automation/
 
 https://www.engpaper.com/deep-learning-ieee-paper.html
 
-https://www.autodesk.com/products/fusion-360/blog/the-role-of-machine-learning-i n-industrial-automation/#:~:text=Industrial%20automation%20and%20machine%2 0learning,handling%20tedious%20time%2Dconsuming%20tasks.
+https://www.autodesk.com/products/fusion-360/blog/the-role-of-machine-learning-in-industrial-automation/#:~:text=Industrial%20automation%20and%20machine%2 0learning,handling%20tedious%20time%2Dconsuming%20tasks.
 
 
 
