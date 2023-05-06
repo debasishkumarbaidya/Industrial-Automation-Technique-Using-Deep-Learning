@@ -82,30 +82,51 @@ Hardware
 
 ![image](https://user-images.githubusercontent.com/85603537/236638668-c997bf57-7dfb-4e4c-b6d7-2fb3b2773740.png)
 
-AIM OF THE PROJECT
+🗄️ AIM OF THE PROJECT
 
 
 ✔	This project is mainly based on Industrial automation technique
+
 ✔	In this project we have used a production line of PENs for our reference.
+
 ✔	After manufacturing of the pens all pens come in the same conveyor belt unseparated.
+
 ✔	Before further process of packaging, the camera fitted over the conveyor belt will detect each and every object and store the data
+
 ✔	For example – It will  detect a red pen body ,black cap , yellow refill cover and refill .
+
 ✔	After that it will keep a count of each and every object in the database for further process.
+
 ✔	This will help in accurate output of pens from the factory.
+
 ✔	It will remove human errors and improve efficiency of the factory.
-FUTURE SCOPE
+
+🗄️ FUTURE SCOPE
 The evolution of Industrial Automation has led to the future scope of manufacturing to become autonomous. Moreover, there have been tremendous changes and applications in adopting new technologies, network architectures, and innovations in the devices and systems. Above all, industrial automation and its applications have helped determine the scope and future of many technologies and companies. Hence, here are the top latest trends in Industrial Automation that will shape its future.
 During this pandemic, manufacturing industries have been hit the most. Hence, they are in dire need of new technologies in the operation processes. That is to say, industrial automation provides advances in digitalization that lead to new processes in automation. Moreover, it digitally transforms manufacturing processes with IT/OT. Hence, manufacturers have an opportunity to convert from “automation” to “autonomous” processes.
 
-CONCLUSION
+🗄️ CONCLUSION
 In conclusion, industrial automation has led us to develop comprehensive strategies for Industry 4.0. Although, manufacturers would soon have to prepare for the next generation, Industry 5.0.
 It is a further advanced trend that will focus on personalization and immediate customer service. As a result, it will integrate people with “cobots” or collaborative robots.
 
-REFERENCES
+🗄️ REFERENCES
 
-https://github.com/ultralytics/yolov5 https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet https://www.makesense.ai/ https://www.tutorialspoint.com/python_deep_learning/index.htm https://www.udemy.com/course/deeplearning_x/ https://www.mathworks.com/discovery/deep-learning.html
+https://github.com/ultralytics/yolov5 
+
+https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet 
+
+https://www.makesense.ai/ 
+
+https://www.tutorialspoint.com/python_deep_learning/index.htm 
+
+https://www.udemy.com/course/deeplearning_x/ 
+
+https://www.mathworks.com/discovery/deep-learning.html
+
 https://wisdomplexus.com/blogs/industrial-automation/
+
 https://www.engpaper.com/deep-learning-ieee-paper.html
+
 https://www.autodesk.com/products/fusion-360/blog/the-role-of-machine-learning-i n-industrial-automation/#:~:text=Industrial%20automation%20and%20machine%2 0learning,handling%20tedious%20time%2Dconsuming%20tasks.
 
 
