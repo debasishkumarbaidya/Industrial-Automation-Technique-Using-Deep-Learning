@@ -38,13 +38,23 @@ image
 
 Software
 
-❖ Python ❖ Google Colab ❖ CVAT ❖ YOLO V5 ❖ Strong SORT ❖ HTML, CSS, JS, PHP ❖ PhpMyAdmin
+❖ Python 
+❖ Google Colab 
+❖ CVAT 
+❖ YOLO V5 
+❖ Strong SORT 
+❖ HTML, CSS, JS, PHP 
+❖ PhpMyAdmin
 
 Hardware
 
-❖ Johnson Motor ❖ 12 Volt adapter ❖ Rack & Pinion
+❖ Johnson Motor 
+❖ 12 Volt adapter 
+❖ Rack & Pinion
 
-🗄️ ER Diagram image
+🗄️ ER Diagram
+
+image
 
 🗄️ FLOWCHART
 
