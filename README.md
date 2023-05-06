@@ -39,30 +39,42 @@ image
 Software
 
 ❖ Python 
+
 ❖ Google Colab 
+
 ❖ CVAT 
+
 ❖ YOLO V5 
+
 ❖ Strong SORT 
+
 ❖ HTML, CSS, JS, PHP 
+
 ❖ PhpMyAdmin
 
 Hardware
 
 ❖ Johnson Motor 
+
 ❖ 12 Volt adapter 
+
 ❖ Rack & Pinion
 
 🗄️ ER Diagram
 
-image
+![image](https://user-images.githubusercontent.com/85603537/236640669-59c6fdfb-761e-49a0-ada8-681956b1465d.png)
 
 🗄️ FLOWCHART
 
 Dataset Flowchart
-image
+
+![image](https://user-images.githubusercontent.com/85603537/236640682-941e0de4-977c-448a-b32a-307948a85a2a.png)
+
 
 Main Flowchart
-image
+
+![image](https://user-images.githubusercontent.com/85603537/236640695-c3ee7eb1-18cd-427a-ae8e-16256b10c77f.png)
+
 
 🗄️ AIM OF THE PROJECT
 
