@@ -15,3 +15,26 @@ Deep learning has revolutionized some fields of technology in the past few years
 Industrial Automation Technique project is based on deep learning, this project included two parts Hardware and Software and based on image detection technique. This automation technique detects the image and as well as gathers the information and data for unique identification of object. This technique usually used in production factory like logistic supply chain companies ,FMCG, Packaging companies etc. This technique is very useful and saves a lot of time and human.
 
  
+🗄️ MOTIVATION  
+ 
+ Initially during the early stage of our project, we thought about what should be the best outcome of deep learning. So, we as a team came up with many project models, then we selected “INDUSTRIAL  AUTOMATION USING DEEP LEARNING” . The main motive to select Industrial automation is that this technique will bring a huge revolution in the supply chain industry. This small change in the supply chain industry will help in factories productivity and will save a lot of time  This simple technique will omit human errors in the production line . 
+The factory efficiency is also increased as compared to a semiautomated or  manually operated factory. 
+The future is technology and we need to adapt to new technology to keep in pace with this fast moving world. This innovation will help factories to keep them updated and help in running efficiently. Companies can go forward with new innovation on their research and development of their product.   
+
+🗄️ BACKGROUND 
+ 
+In this project we are working on an Industrial Automation model. In this model we are taking an example of a PEN production industry where different colours of pens are being manufactured in a pen factory. There are four colours that we will consider in our project i.e  Red, Yellow, Blue and Black. 
+
+After production the pens and its different components come onto the conveyor line. Here the product will come on the conveyor belt. A camera will be fitted at a suitable angle in such a way that the camera will scan each and 
+
+every product that passes on the conveyor belt. The camera will detect each and every object and will match it with the image present in its database. 
+First of all we created the database by taking pictures of the four different colours of pen and feeding the system with the required data. The picture was taken from all possible angles. This process is known as annotation. This process is easily explained in the data flow diagram. After this process we came to the second stage where the object identification will take place. We have used the coding platform google colab and the code was done in python. Here the system is coded in such a way that the camera lens will capture the image of a particular pen passing through the conveyor line and will check with the predefined database present in its system. 
+For Example - If a black pen body passes the conveyor line the lens will detect the black pen and match with its database , it will detect the black colour pen body and count that one black pen body is produced at that particular time and store this data in another database. 
+In this way all different parts of the pens are detected i.e pen cap, pen body, pen refill cover and pen refill and the parts are separated from each other with its unique colour. In this way we can collect the total number of pens manufactured in a particular period of time.
+
+🗄️ SUMMARY OF PRESENT WORK   
+
+Industrial Automation Technique is a computer vision task that refers to the process of locating and identifying multiple objects in an image. Deep learning algorithms like YOLO V5, SSD and R-CNN detect objects on an image using deep convolutional neural networks, a kind of artificial neural network inspired by the visual cortex. 
+
+ 
+ 
