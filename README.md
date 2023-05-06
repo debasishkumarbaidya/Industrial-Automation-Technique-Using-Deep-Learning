@@ -36,5 +36,80 @@ In this way all different parts of the pens are detected i.e pen cap, pen body, 
 
 Industrial Automation Technique is a computer vision task that refers to the process of locating and identifying multiple objects in an image. Deep learning algorithms like YOLO V5, SSD and R-CNN detect objects on an image using deep convolutional neural networks, a kind of artificial neural network inspired by the visual cortex. 
 
+ ![image](https://user-images.githubusercontent.com/85603537/236638517-5ebd59c7-fc35-4052-8ef8-e9a3724ef68b.png)
+
+🗄️ The whole process is as follows:
+•	We are going to detect a particular object in this project. We have taken a PEN as an object.
+•	Here we have divided the pen into four different parts namely PEN BODY, PEN CAP, PEN REFILL COVER AND PEN REFILL.
+•	There will be four different colours of pen i.e. RED, YELLOW, BLUE & BLACK.
+•	At first we trained our system by feeding the data of 1500 images of different parts of the pen at various angles.
+•		In our working model there is a conveyor belt that will carry the pen and its parts.
+•	A camera will be fitted at a suitable angle that it can check each and every object.
+•	The camera system will detect the object and will identify each and every specific object.
+•	After detecting the data will be collected and stored in our database.
+
+
+🗄️ HARDWARE AND SOFTWARE
+
+
+
+Software
+
+❖	Python
+❖	Google Colab
+❖	CVAT
+❖	YOLO V5
+❖	Strong SORT
+❖	HTML, CSS, JS, PHP
+❖	PhpMyAdmin
+
+Hardware
+
+❖ Johnson Motor
+❖	12 Volt adapter
+❖	Rack & Pinion
+
+🗄️ ER Diagram
+ ![image](https://user-images.githubusercontent.com/85603537/236638611-1255a926-9748-462d-9e36-3f3ea53746f6.png)
  
- 
+🗄️ FLOWCHART
+
+1.	Dataset Flowchart
+
+![image](https://user-images.githubusercontent.com/85603537/236638639-69f0bd2d-7986-422d-975b-fdac63629ce1.png)
+
+2.	Main Flowchart
+
+![image](https://user-images.githubusercontent.com/85603537/236638668-c997bf57-7dfb-4e4c-b6d7-2fb3b2773740.png)
+
+AIM OF THE PROJECT
+
+
+✔	This project is mainly based on Industrial automation technique
+✔	In this project we have used a production line of PENs for our reference.
+✔	After manufacturing of the pens all pens come in the same conveyor belt unseparated.
+✔	Before further process of packaging, the camera fitted over the conveyor belt will detect each and every object and store the data
+✔	For example – It will  detect a red pen body ,black cap , yellow refill cover and refill .
+✔	After that it will keep a count of each and every object in the database for further process.
+✔	This will help in accurate output of pens from the factory.
+✔	It will remove human errors and improve efficiency of the factory.
+FUTURE SCOPE
+The evolution of Industrial Automation has led to the future scope of manufacturing to become autonomous. Moreover, there have been tremendous changes and applications in adopting new technologies, network architectures, and innovations in the devices and systems. Above all, industrial automation and its applications have helped determine the scope and future of many technologies and companies. Hence, here are the top latest trends in Industrial Automation that will shape its future.
+During this pandemic, manufacturing industries have been hit the most. Hence, they are in dire need of new technologies in the operation processes. That is to say, industrial automation provides advances in digitalization that lead to new processes in automation. Moreover, it digitally transforms manufacturing processes with IT/OT. Hence, manufacturers have an opportunity to convert from “automation” to “autonomous” processes.
+
+CONCLUSION
+In conclusion, industrial automation has led us to develop comprehensive strategies for Industry 4.0. Although, manufacturers would soon have to prepare for the next generation, Industry 5.0.
+It is a further advanced trend that will focus on personalization and immediate customer service. As a result, it will integrate people with “cobots” or collaborative robots.
+
+REFERENCES
+
+https://github.com/ultralytics/yolov5 https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet https://www.makesense.ai/ https://www.tutorialspoint.com/python_deep_learning/index.htm https://www.udemy.com/course/deeplearning_x/ https://www.mathworks.com/discovery/deep-learning.html
+https://wisdomplexus.com/blogs/industrial-automation/
+https://www.engpaper.com/deep-learning-ieee-paper.html
+https://www.autodesk.com/products/fusion-360/blog/the-role-of-machine-learning-i n-industrial-automation/#:~:text=Industrial%20automation%20and%20machine%2 0learning,handling%20tedious%20time%2Dconsuming%20tasks.
+
+
+
+
+
+
