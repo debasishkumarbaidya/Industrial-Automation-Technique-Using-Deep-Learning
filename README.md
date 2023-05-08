@@ -1,6 +1,6 @@
 📌📌 Industrial-Automation-Technique-Using-Deep-Learning
 
-📌📌 Complete Project Showing Video 🎬 > 
+📌📌 Complete Project Showing Video 🎬 -> 
 https://youtu.be/nF8MdvL3950
 
 ✅✅ Pen parts detection
@@ -164,7 +164,28 @@ https://www.autodesk.com/products/fusion-360/blog/the-role-of-machine-learning-i
 ![image](https://user-images.githubusercontent.com/85603537/236864963-fa7fd8b6-24a3-4aba-a86f-f57e3731b69c.png)
 ![image](https://user-images.githubusercontent.com/85603537/236865004-bbadda53-df56-4253-bb9b-6e0363248d02.png)
 ![image](https://user-images.githubusercontent.com/85603537/236865035-c79c7246-9ecc-445e-8859-052cffb2e75e.png)
+![image](https://user-images.githubusercontent.com/85603537/236868388-f15f26fb-8bac-4897-b967-fa0e89a8d074.png)
+![image](https://user-images.githubusercontent.com/85603537/236868422-4a824925-c0c4-41e9-b7e9-4e661642801b.png)
+![image](https://user-images.githubusercontent.com/85603537/236868604-a3c25b1d-e169-4c2d-a650-67ce87e9ae0a.png)
+![image](https://user-images.githubusercontent.com/85603537/236868654-7206234f-e267-4352-84bf-ba3842359fec.png)
+![image](https://user-images.githubusercontent.com/85603537/236868841-1514dbd4-d64b-47ce-b299-8aa987a71b34.png)
+![image](https://user-images.githubusercontent.com/85603537/236868891-672a3f16-5bba-4c53-86dc-1f0b2c61bb22.png)
+![image](https://user-images.githubusercontent.com/85603537/236868930-2ae41c9a-81fe-4ed1-8cef-c2fbb34506ae.png)
+![image](https://user-images.githubusercontent.com/85603537/236868965-24ddfdf7-3135-4870-a93f-0bef474499d5.png)
+![image](https://user-images.githubusercontent.com/85603537/236869001-25f4d02c-c28e-478e-9ab2-94dd91bac61c.png)
+![image](https://user-images.githubusercontent.com/85603537/236869060-a7791d24-5f05-4ce4-84aa-18f613e508cc.png)
+![image](https://user-images.githubusercontent.com/85603537/236869146-111b75c9-a6be-41a4-8d69-443af0da02b4.png)
+![image](https://user-images.githubusercontent.com/85603537/236869185-91343116-3310-466a-81a7-51deceedaf8b.png)
 
+
+📌📌 Complete Project Showing Video 🎬 -> 
+https://youtu.be/nF8MdvL3950
+
+✅✅ Pen parts detection
+
+Dataseet -> https://app.roboflow.com/spectacle/pen_parts_detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+PT File -> https://drive.google.com/drive/folders/1a7baey55y07oU-1_5EgLgHFrUzr5A18B
 
 
 
