@@ -12,6 +12,8 @@ PT File -> https://drive.google.com/drive/folders/1a7baey55y07oU-1_5EgLgHFrUzr5A
 
 
 🗄️ ABSTRACT
+
+
 YOLO stands for 'You only look once', is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
 
 Deep learning has revolutionized some fields of technology in the past few years and is going to touch many others in the near future. One of these could be industrial automation, though traditionally a reluctant environment to adopt new technologies. We propose a novel and robust colour object detection and localization algorithm. Without a priori information about the number of objects, our method can detect all the objects with similar colour features in the template. An SIFT and key points matching algorithm is used to find the object candidate regions. The weighted histogram intersection is used to verify the presence of objects. With the colour feature in the template, our method can detect and locate the objects accurately, get the number of objects, estimate their scales and orientations. Our experimental results on outdoor images obtained under different environments verify the effectiveness of our algorithm
