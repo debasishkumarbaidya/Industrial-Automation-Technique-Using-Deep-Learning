@@ -128,6 +128,15 @@ https://www.autodesk.com/products/fusion-360/blog/the-role-of-machine-learning-i
 ![image](https://user-images.githubusercontent.com/85603537/236863389-42497b47-e3f0-427d-8af4-1a0023bf7a8d.png)
 ![image](https://user-images.githubusercontent.com/85603537/236863509-69706b51-a6f1-4334-8f97-945d3b056f3d.png)
 ![image](https://user-images.githubusercontent.com/85603537/236863577-aa7c62bb-a5c1-422a-b748-b07ca8790ac1.png)
+![image](https://user-images.githubusercontent.com/85603537/236864752-4be5fc6a-792a-47f5-8061-b45d684801e1.png)
+![image](https://user-images.githubusercontent.com/85603537/236864778-7661575e-598a-45d8-807a-2f7a160134de.png)
+![image](https://user-images.githubusercontent.com/85603537/236864845-de39505a-1d6e-451a-90ff-dc8b8a109e79.png)
+![image](https://user-images.githubusercontent.com/85603537/236864877-459d6814-a032-4e64-84ac-f2f6a2bef314.png)
+![image](https://user-images.githubusercontent.com/85603537/236864929-7ef293b5-5356-4137-ba5c-70e49e816f17.png)
+![image](https://user-images.githubusercontent.com/85603537/236864963-fa7fd8b6-24a3-4aba-a86f-f57e3731b69c.png)
+![image](https://user-images.githubusercontent.com/85603537/236865004-bbadda53-df56-4253-bb9b-6e0363248d02.png)
+![image](https://user-images.githubusercontent.com/85603537/236865035-c79c7246-9ecc-445e-8859-052cffb2e75e.png)
+
 
 
 
