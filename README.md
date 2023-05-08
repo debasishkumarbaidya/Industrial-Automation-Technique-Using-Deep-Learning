@@ -117,3 +117,17 @@ https://wisdomplexus.com/blogs/industrial-automation/
 https://www.engpaper.com/deep-learning-ieee-paper.html
 
 https://www.autodesk.com/products/fusion-360/blog/the-role-of-machine-learning-in-industrial-automation/#:~:text=Industrial%20automation%20and%20machine%20learning,handling%20tedious%20time%2Dconsuming%20tasks.
+
+📌📌 Project Pictures & Output:
+
+![image](https://user-images.githubusercontent.com/85603537/236862971-40d5ab3d-46dc-481b-b268-2631e043ad70.png)
+![image](https://user-images.githubusercontent.com/85603537/236863061-1e11c098-71f0-4a0a-9536-eebe50e7cd26.png)
+![image](https://user-images.githubusercontent.com/85603537/236863280-9538f3f4-ea6a-45df-8af2-52843b7fab8f.png)
+![image](https://user-images.githubusercontent.com/85603537/236863141-b37e84a5-876b-4a94-9a99-ede1ab992d39.png)
+![image](https://user-images.githubusercontent.com/85603537/236863346-29bca067-cec7-410e-bd95-1d7a6c3812f6.png)
+![image](https://user-images.githubusercontent.com/85603537/236863389-42497b47-e3f0-427d-8af4-1a0023bf7a8d.png)
+![image](https://user-images.githubusercontent.com/85603537/236863509-69706b51-a6f1-4334-8f97-945d3b056f3d.png)
+![image](https://user-images.githubusercontent.com/85603537/236863577-aa7c62bb-a5c1-422a-b748-b07ca8790ac1.png)
+
+
+
