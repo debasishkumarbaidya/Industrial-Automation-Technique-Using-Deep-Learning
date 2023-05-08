@@ -1,10 +1,15 @@
 📌📌 Industrial-Automation-Technique-Using-Deep-Learning
 
+📌📌 Complete Project Showing Video 🎬 > 
+https://youtu.be/nF8MdvL3950
+
 ✅✅ Pen parts detection
 
 Dataseet -> https://app.roboflow.com/spectacle/pen_parts_detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 PT File -> https://drive.google.com/drive/folders/1a7baey55y07oU-1_5EgLgHFrUzr5A18B
+
+
 
 🗄️ ABSTRACT
 YOLO stands for 'You only look once', is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
